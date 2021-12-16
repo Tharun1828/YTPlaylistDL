@@ -21,7 +21,7 @@ import asyncio
 @Client.on_message(filters.command("start"))
 async def start_msg(client, message):
 	await message.reply_text(
-		f"Hi {message.from_user.mention},If you need any help, Just click help button.\n\nProject by @Harp_Tech",
+		f"Hi {message.from_user.mention},If you need any help, Just click help button.\n\nProject by @Sk_Media_Official",
 		reply_markup=InlineKeyboardMarkup(
 				[[
 					InlineKeyboardButton("🛠 Help", callback_data=f"help"),
