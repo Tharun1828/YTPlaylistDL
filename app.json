@@ -1,5 +1,5 @@
 {
-  "name": "YTPlaylistSK",
+  "name": "YTPlaylistDL",
   "description": "A Telegram bot to download youtube playlists and upload them to telegram.",
   "env": {
     "TOKEN": {
