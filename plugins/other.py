@@ -43,7 +43,7 @@ async def cb_handler(client, update):
 				]]
 			))
 	elif "about" in cb_data:
-		await update.message.edit_text(text = f"<b>○ Creator : @Sk_Media_Official/n'>This Person</a>\n○ Language : <code>Python3</code>\n ○ Channel : @Sk_Media_Official\n
+		await update.message.edit_text("○Language: Python\n○Corded By: @Sk_Media_Official\n\n○Powered by: @Sk_Media_Official",
 			reply_markup=InlineKeyboardMarkup(
 				[[
 					InlineKeyboardButton("🛠 Help", callback_data=f"help"),
