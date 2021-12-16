@@ -1,4 +1,4 @@
-# YTPlaylistDL 📛
+# YTPlaylistSk 📛
 _A Telegram bot to download youtube playlists and upload them to telegram. (may be slow becoz youtube limitations)_
 
 _🎯 Follow me and star this repo for more telegram bots._
@@ -19,7 +19,7 @@ Click below button to deploy.
 
 ## 📌 License
 ```
-YTPlaylistDL, An Telegram Bot Project
+YTPlaylistSk, An Telegram Bot Project
 Copyright (c) 2021 Anjana Madu <https://github.com/AnjanaMadu>
 
 This program is free software: you can redistribute it and/or modify
