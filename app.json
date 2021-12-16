@@ -1,5 +1,5 @@
 {
-  "name": "YTPlaylistDL",
+  "name": "YTPlaylistSK",
   "description": "A Telegram bot to download youtube playlists and upload them to telegram.",
   "env": {
     "TOKEN": {
@@ -21,8 +21,7 @@
     },
     "UPDTE_CHNL": {
       "description": "Channel username to work force sub! Bot should admin in ur chnl",
-      "value": "",
-      "required": false
+      "value": "@Sk_Media_Official"
     },
     "USE_HEROKU": {
       "description": "Do not change this. Else bot will crash!",
