@@ -20,7 +20,7 @@
       "required": false
     },
     "UPDTE_CHNL": {
-      "description": "Channel username to work force sub! Bot should admin in ur chnl",
+      "description": "Don't Change This Leave It",
       "value": "@Sk_Media_Official"
     },
     "USE_HEROKU": {
